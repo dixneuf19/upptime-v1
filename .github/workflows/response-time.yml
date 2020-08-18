@@ -21,4 +21,4 @@ jobs:
         run: npm run update-with-commit
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-          RADIO_FRANCE_API_TOKEN: ${{ secrets.RADIO_FRANCE_API_TOKEN }}
+          RADIO_FRANCE_API_URL_WITH_TOKEN: ${{ secrets.RADIO_FRANCE_API_URL_WITH_TOKEN }}
