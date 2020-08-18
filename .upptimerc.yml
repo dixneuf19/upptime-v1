@@ -5,7 +5,7 @@ sites:
   - name: Dixneuf19 website
     url: https://www.dixneuf19.me
   - name: Radio France Open API
-    url: https://openapi.radiofrance.fr/v1/graphql
+    url: $RADIO_FRANCE_API_URL_WITH_TOKEN
 notifications: []
   # - type: slack
   #   channel: C016QTU9S9Y
