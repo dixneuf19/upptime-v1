@@ -6,9 +6,9 @@ sites:
     url: https://www.dixneuf19.me
   - name: Radio France Open API
     url: https://openapi.radiofrance.fr/v1/graphql
-notifications:
-  - type: slack
-    channel: C016QTU9S9Y
+notifications: []
+  # - type: slack
+  #   channel: C016QTU9S9Y
 assignees:
   - dixneuf19
 status-website:
@@ -17,4 +17,3 @@ status-website:
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: An uptime tracker for some services I care about
-  
