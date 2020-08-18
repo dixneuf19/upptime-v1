@@ -6,6 +6,12 @@ sites:
     url: https://www.dixneuf19.me
   - name: Radio France Open API
     url: $RADIO_FRANCE_API_URL_WITH_TOKEN
+  - name: loudnaround.org
+    url: https://loudnaround.org
+  - name: mangococo.fr
+    url: https://www.mangococo.fr/
+  - name: This Upptime website
+    url: https://upptime.dixneuf19.me
 notifications: []
   # - type: slack
   #   channel: C016QTU9S9Y
