@@ -5,7 +5,7 @@ sites:
   - name: Dixneuf19 website
     url: https://www.dixneuf19.me
   - name: Radio France Open API
-    url: https://openapi.radiofrance.fr/v1/graphql
+    url: https://openapi.radiofrance.fr/v1/graphql?x-token=${RADIO_FRANCE_API_TOKEN}
 assignees:
   - dixneuf19
 status-website:
@@ -14,4 +14,3 @@ status-website:
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: An uptime tracker for some services I care about
-  

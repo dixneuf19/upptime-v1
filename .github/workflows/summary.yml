@@ -21,4 +21,4 @@ jobs:
         run: npm run readme
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-          SECRET_SITE: ${{ secrets.SECRET_SITE }}
+          RADIO_FRANCE_API_TOKEN: ${{ secrets.RADIO_FRANCE_API_TOKEN }}
