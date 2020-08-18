@@ -1,50 +1,18 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Dixneuf19 website",
+    "url": "https://www.dixneuf19.me",
+    "slug": "dixneuf19-website",
     "status": "up",
     "uptime": "100.00",
-    "time": 100
+    "time": 729
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 131
-  },
-  {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 575
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 383
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "Radio France Open API",
+    "url": "https://openapi.radiofrance.fr/v1/graphql",
+    "slug": "radio-france-open-api",
     "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 40
+    "uptime": "-629.93",
+    "time": 488
   }
 ]
