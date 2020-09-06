@@ -1,6 +1,6 @@
 - url: $RADIO_FRANCE_API_URL_WITH_TOKEN
 - status: up
 - code: 200
-- responseTime: 1227
-- lastUpdated: 2020-09-05T18:18:21.825Z
+- responseTime: 498
+- lastUpdated: 2020-09-06T00:50:47.883Z
 - startTime: 2020-08-18T20:16:00.595Z
