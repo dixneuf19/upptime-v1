@@ -1,50 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Dixneuf19 website",
+    "url": "https://www.dixneuf19.me",
+    "slug": "dixneuf19-website",
     "status": "up",
     "uptime": "100.00",
-    "time": 76
+    "time": 660
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Radio France Open API",
+    "url": "$RADIO_FRANCE_API_URL_WITH_TOKEN",
+    "slug": "radio-france-open-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 171
+    "time": 917
   },
   {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
+    "name": "loudnaround.org",
+    "url": "https://loudnaround.org",
+    "slug": "loudnaround-org",
     "status": "up",
     "uptime": "100.00",
-    "time": 493
+    "time": 735
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "mangococo.fr",
+    "url": "https://www.mangococo.fr/",
+    "slug": "mangococo-fr",
     "status": "up",
     "uptime": "100.00",
-    "time": 328
+    "time": 279
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "This Upptime website",
+    "url": "https://upptime.dixneuf19.me",
+    "slug": "this-upptime-website",
     "status": "up",
     "uptime": "100.00",
-    "time": 45
+    "time": 252
   }
 ]
