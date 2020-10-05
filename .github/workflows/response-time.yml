@@ -22,5 +22,5 @@ jobs:
         run: npm run update-with-commit
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-          # SLACK_APP_ACCESS_TOKEN: ${{ secrets.SLACK_APP_ACCESS_TOKEN }}
-          RADIO_FRANCE_API_URL_WITH_TOKEN: ${{ secrets.RADIO_FRANCE_API_URL_WITH_TOKEN }}
+          SECRET_SITE: ${{ secrets.SECRET_SITE }}
+          SLACK_APP_ACCESS_TOKEN: ${{ secrets.SLACK_APP_ACCESS_TOKEN }}
