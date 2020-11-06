@@ -11,7 +11,7 @@
     "name": "Radio France Open API",
     "url": "$RADIO_FRANCE_API_URL_WITH_TOKEN",
     "slug": "radio-france-open-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
     "time": 719
   },
